@@ -1,7 +1,7 @@
 { "Project" :  
     [  
-     {"id":"1","title":"Mong Loi","name":"vetri","cover_image":"10000","url":"https://app.box.com/s/947nj2ktu1kweaqhb48nqhetzhfill3n"},
-     {"id":"2","title":"Mong Loi","name":"vetri","cover_image":"10000","url":"https://app.box.com/s/947nj2ktu1kweaqhb48nqhetzhfill3n"},
-     {"id":"3","title":"Mong Loi","name":"vetri","cover_image":"10000","url":"https://app.box.com/s/947nj2ktu1kweaqhb48nqhetzhfill3n"},
-     {"id":"4","title":"Mong Loi","name":"vetri","cover_image":"10000","url":"https://app.box.com/s/947nj2ktu1kweaqhb48nqhetzhfill3n"},
+     {"id":"1","title":"Mong Loi","name":"vetri","cover_image":"https://github.com/SaiShweAung2020/Tai-Project/blob/main/1592061649275.jpg","url":"https://app.box.com/s/947nj2ktu1kweaqhb48nqhetzhfill3n"},
+     {"id":"2","title":"Mong Loi","name":"vetri","cover_image":"https://github.com/SaiShweAung2020/Tai-Project/blob/main/1592061649275.jpg","url":"https://app.box.com/s/947nj2ktu1kweaqhb48nqhetzhfill3n"},
+     {"id":"3","title":"Mong Loi","name":"vetri","cover_image":"https://github.com/SaiShweAung2020/Tai-Project/blob/main/1592061649275.jpg","url":"https://app.box.com/s/947nj2ktu1kweaqhb48nqhetzhfill3n"},
+     {"id":"4","title":"Mong Loi","name":"vetri","cover_image":"https://github.com/SaiShweAung2020/Tai-Project/blob/main/1592061649275.jpg","url":"https://app.box.com/s/947nj2ktu1kweaqhb48nqhetzhfill3n"},
     ]   
